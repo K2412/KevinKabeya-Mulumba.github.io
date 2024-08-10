@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web3 Project - My Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Web3 Project</h1>
+        <p>Description of your Web3 project goes here. Keep it clear and concise.</p>
+        <h2>Key Features</h2>
+        <ul>
+            <li>Feature 1</li>
+            <li>Feature 2</li>
+            <li>Feature 3</li>
+        </ul>
+        <a href="https://github.com/yourusername/web3project" class="button">View on GitHub</a>
+        <a href="index.html" class="button">Back to Home</a>
+    </div>
+</body>
+</html>
